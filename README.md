@@ -1,5 +1,8 @@
 # supportext_api
-User integration for supportext
+User auth integration for supportext portal.
+Version 0.1 beta
+Release: 12/14/2020
+Author: Wes Warren 
 
 <h2>About Supportext</h2>
 <P>
