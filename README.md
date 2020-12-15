@@ -14,6 +14,7 @@ Supportext is a white label ticket management system. It allows you to create a 
 
 Get your api keys at 
 https://supportext.com/home/company
+<P>The form requires the users name and email.</P>
 
 <HR>
 <h2>Laravel Integration</h2>
