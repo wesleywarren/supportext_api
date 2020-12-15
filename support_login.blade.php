@@ -1,7 +1,7 @@
  <?php
  // https://github.com/wesleywarren/supportext_api
  // v0.1 beta
- // email address of the user logged into your system using Laravel
+ // email address of the user logged into your system (using Laravel)
     $SPTX_EMAIL = Auth::User()->email; 
  // your https support url (cname => sppxt.com )
     $SPTX_URL = 'https://help.artquarter.com'; 
