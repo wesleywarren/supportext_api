@@ -15,3 +15,8 @@ SPTX_API_CLIENT=XXXXXXXXX
 SPTX_API_SECRET=XXXXXXXXXXXXXXXXXXXXX
 </pre>
 
+<h2>CNAME URL</h2>
+<P>Create a subdomain for your support website. Add a CNAME to your DNS record to create your branded support portal.</P>
+<P>If your website is FRANKSCOMPANY.COM you would create a new DNS CNAME record:<BR>
+  <EM> helpdesk => sppxt.com </EM> <BR>
+  This will create your branded support portal at <B>helpdesk.frankscomapny.com</B>
