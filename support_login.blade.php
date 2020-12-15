@@ -1,4 +1,6 @@
  <?php
+ // https://github.com/wesleywarren/supportext_api
+ // v0.1 beta
  // email address of the user logged into your system using Laravel
     $SPTX_EMAIL = Auth::User()->email; 
  // your https support url (cname => sppxt.com )
@@ -20,3 +22,5 @@
    <input type="hidden" name="user_name" value="{{Auth::User()->name}}">    
    <button class="btn btn-primary" name="login" value="create">Support</button>
  </form>
+
+
